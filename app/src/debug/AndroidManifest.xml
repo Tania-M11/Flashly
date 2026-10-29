@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Solo en compilaciones debug: catálogo visual de componentes (no llega a la versión publicada) -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <activity
+            android:name=".CatalogoActivity"
+            android:exported="true"
+            android:label="Flashly · Catálogo"
+            android:theme="@style/Theme.Flashly" />
+    </application>
+</manifest>
