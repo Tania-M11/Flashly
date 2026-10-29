@@ -17,12 +17,12 @@ Las respuestas, el XP, los combos, las vidas y el tiempo se validan en el servid
 ## Cómo ejecutarlo
 
 1. Abrir la carpeta en Android Studio y esperar la sincronización de Gradle.
-2. En `local.properties` (no se sube al repositorio) agregar las dos líneas del proyecto de Supabase; pídelas al equipo:
+2. En `local.properties` (no se sube al repositorio) agregar las dos líneas del proyecto de Supabase:
    ```
    SUPABASE_URL=https://<proyecto>.supabase.co
    SUPABASE_PUBLISHABLE_KEY=sb_publishable_...
    ```
-   Solo se usa la clave publicable. Nunca poner aquí la clave secreta ni la service_role.
+   Solo se usa la clave publicable. 
 3. Ejecutar en un emulador o teléfono con Android 8.0 o superior.
 
 ## Estructura
