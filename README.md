@@ -2,7 +2,7 @@
 
 App for studying with flashcards and decks.
 
-Aplicación Android (Kotlin + Jetpack Compose) de tarjetas de aprendizaje cuyo backend completo está en **Supabase**: Auth, PostgreSQL con RLS, funciones RPC, Storage y Realtime. Proyecto del curso Desarrollo de Aplicaciones Móviles, Universidad de Nariño.
+Aplicación Android (Kotlin + Jetpack Compose) de tarjetas de aprendizaje cuyo backend completo está en **Supabase**: Auth, PostgreSQL con RLS, funciones RPC, Storage y Realtime. Proyecto del curso Desarrollo de Aplicaciones Móviles.
 
 ## Funcionalidades
 
